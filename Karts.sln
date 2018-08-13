@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karts", "Assembly-CSharp.csproj", "{BB026F29-9FE4-FE5A-3265-0859CA1505AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karts", "Assembly-CSharp-Editor.csproj", "{ACBC52A3-D25D-C8E1-55A0-20F2C8208543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB026F29-9FE4-FE5A-3265-0859CA1505AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB026F29-9FE4-FE5A-3265-0859CA1505AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB026F29-9FE4-FE5A-3265-0859CA1505AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB026F29-9FE4-FE5A-3265-0859CA1505AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACBC52A3-D25D-C8E1-55A0-20F2C8208543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBC52A3-D25D-C8E1-55A0-20F2C8208543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBC52A3-D25D-C8E1-55A0-20F2C8208543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBC52A3-D25D-C8E1-55A0-20F2C8208543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
