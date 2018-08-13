@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/HighroadEngine/Tutorials/Scenes/Circle.unity
+  isLoaded: 1
+  isActive: 1
