@@ -110,7 +110,7 @@ namespace MoreMountains.HighroadEngine
 			UpdateGroundSituation();
 
 			// Enable this line if you want to see debug info
-			//ShowDebugInformation();
+			ShowDebugInformation();
 		}
 
 		/// <summary>
