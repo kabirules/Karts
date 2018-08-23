@@ -110,7 +110,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 100
+  controlID: 124
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -134,7 +134,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 114
+  controlID: 77
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -205,12 +205,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 909
     y: 0
-    width: 564
+    width: 570
     height: 942
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 75
+  controlID: 33
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -227,10 +227,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 564
+    width: 570
     height: 424
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -252,7 +252,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 424
-    width: 564
+    width: 570
     height: 518
   m_MinSize: {x: 234, y: 271}
   m_MaxSize: {x: 10004, y: 10021}
@@ -275,9 +275,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1473
+    x: 1479
     y: 0
-    width: 431
+    width: 425
     height: 942
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
@@ -389,14 +389,14 @@ MonoBehaviour:
     height: 417
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 4397.68220624658
+  lastFramingTime: 6706.700769326497
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 148, z: -82.37}
+    m_Target: {x: -58.75737, y: 4.815, z: -101.72149}
     speed: 2
-    m_Value: {x: 0, y: 148, z: -82.37}
+    m_Value: {x: -58.75737, y: 4.815, z: -101.72149}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -426,15 +426,15 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
     speed: 2
-    m_Value: {x: -0.7071068, y: 0, z: -0, w: -0.7071068}
+    m_Value: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_Size:
-    m_Target: 22
+    m_Target: 722.90326
     speed: 2
-    m_Value: 22
+    m_Value: 722.90326
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_ShowGlobalGrid: 1
   m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
@@ -531,14 +531,14 @@ MonoBehaviour:
     serializedVersion: 2
     x: 919
     y: 99
-    width: 560
+    width: 566
     height: 403
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: f0fbffff00000000
+    m_SelectedIDs: ca900000
+    m_LastClickedID: 37066
+    m_ExpandedIDs: cacff4ffbe11f5ff386cf5ff7813f7ffb629f7ff2484f7ffe603f8ffba04f8ff381df8ff4ec0f9ff52b8faffaec6faffaae4faffda38fbff5866fbffb07bfbfff6c1fbff7ecffbffea1efcff5601ffff80f4fffff0fbffff00000000ce800000be900000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -557,7 +557,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
   m_ExpandedScenes:
-  - Track1
+  - Track2
   m_CurrenRootInstanceID: 0
   m_LockTracker:
     m_IsLocked: 0
@@ -584,11 +584,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 919
     y: 523
-    width: 560
+    width: 566
     height: 497
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
-    m_NameFilter: FollowCameraRig
+    m_NameFilter: 
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -599,20 +599,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/HighroadEngine/Common
+    - Assets/3D Road Tiles
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/HighroadEngine/Common
+  - Assets/3D Road Tiles
   m_LastFoldersGridSize: 16
   m_LastProjectPath: E:\Disco F\Unity\Karts
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 00000000822a0000402b0000362e0000f22e00004e2f0000d22f000000ca9a3bffffff7f
+    m_SelectedIDs: 2c410000
+    m_LastClickedID: 16684
+    m_ExpandedIDs: 00000000822a0000402b0000362e0000f22e00004e2f0000d22f00002c41000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -667,8 +667,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: 0022000064220000722a00001a050000e821000058220000de210000f421000094a0fcff1e27fcffe021000076220000cc220000a4050000a8050000b0050000b2050000b40500003e0800006c1c000084070000a0080000522c000074e3ffff1e3f0000204c0000403f0000b0430000c83900007c4a0000d84800008c1301004e2701003e6ffeff0c57000000000000c62a00006e2c00004c2a0000fc2f0000102f0000a42c00008e2f00003e2d00009c2f0000a63d0000109200005c2e00004a71ffff
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: 0022000064220000722a00001a050000e821000058220000de210000f421000094a0fcff1e27fcffe021000076220000cc220000a4050000a8050000b0050000b2050000b40500003e0800006c1c000084070000a0080000522c000074e3ffff1e3f0000204c0000403f0000c8390000d84800008c1301004e2701003e6ffeff0c57000000000000c62a00006e2c00004c2a0000fc2f0000102f0000a42c00008e2f00003e2d00009c2f0000a63d0000109200005c2e00004a71ffff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -692,7 +692,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 9268}
     m_GridSize: 16
   m_DirectoriesAreaWidth: 233
 --- !u!114 &19
@@ -715,9 +715,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1483
+    x: 1489
     y: 99
-    width: 429
+    width: 423
     height: 921
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
